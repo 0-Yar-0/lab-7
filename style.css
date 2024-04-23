@@ -1,0 +1,832 @@
+body{position: relative;
+  width: 595px;
+  height: 842px;
+  background: #67C158;}
+ql{  position: absolute;
+  background: url(https://i.ibb.co/ZWnyY9B/image.png);
+  background-size: 100%;
+  width: 129px;
+  height: 127px;
+  left: 88px;
+  top: 20px;
+  border-radius: 63px;
+  background-repeat: no-repeat;}
+wq{position: absolute;
+width: 256px;
+height: 147px;
+left: 24px;
+top: 165px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq1{position: absolute;
+width: 256px;
+height: 147px;
+left: 29px;
+top: 652px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq2{position: absolute;
+width: 256px;
+height: 99px;
+left: 24px;
+top: 330px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq3{position: absolute;
+width: 256px;
+height: 79px;
+left: 26px;
+top: 446px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq4{position: absolute;
+width: 256px;
+height: 83px;
+left: 29px;
+top: 550px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+eq1{position: absolute;
+width: 178px;
+height: 50px;
+left: 115px;
+top: 555px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+eq2{position: absolute;
+width: 165px;
+height: 50px;
+left: 115px;
+top: 452px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+rq{position: absolute;
+width: 40px;
+height: 40px;
+left: 46px;
+top: 458px;
+background: url(https://cdn-icons-png.flaticon.com/512/883/883777.png), #BFFFB5;
+background-size: 100%;
+border-radius: 7px;}
+
+lq{position: absolute;
+width: 10px;
+height: 0px;
+left: 134px;
+top: 411px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq1{position: absolute;
+width: 10px;
+height: 0px;
+left: 140px;
+top: 411px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq2{position: absolute;
+width: 10px;
+height: 0px;
+left: 146px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq3{position: absolute;
+width: 10px;
+height: 0px;
+left: 152px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq4{position: absolute;
+width: 10px;
+height: 0px;
+left: 158px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq5{position: absolute;
+width: 10px;
+height: 0px;
+left: 164px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq6{position: absolute;
+width: 10px;
+height: 0px;
+left: 170px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq7{position: absolute;
+width: 10px;
+height: 0px;
+left: 176px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq8{position: absolute;
+width: 10px;
+height: 0px;
+left: 181px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq9{position: absolute;
+width: 10px;
+height: 0px;
+left: 186px;
+top: 411px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+rq1{position: absolute;
+width: 50px;
+height: 50px;
+left: 41px;
+top: 172px;
+background: url(https://cdn-icons-png.flaticon.com/512/558/558593.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 55px;}
+
+eq3{position: absolute;
+width: 96px;
+height: 25px;
+left: 115px;
+top: 185px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+eq4{position: absolute;
+width: 98px;
+height: 15px;
+left: 51px;
+top: 226px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq5{position: absolute;
+width: 190px;
+height: 15px;
+left: 51px;
+top: 242px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq6{position: absolute;
+width: 64px;
+height: 16px;
+left: 51px;
+top: 261px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq7{position: absolute;
+width: 57px;
+height: 16px;
+left: 51px;
+top: 281px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+rq2{position: absolute;
+width: 50px;
+height: 50px;
+left: 39.86px;
+top: 336.18px;
+background: url(https://cdn-icons-png.flaticon.com/512/4821/4821611.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 6px;}
+
+eq8{position: absolute;
+width: 61px;
+height: 25px;
+left: 115px;
+top: 349px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+eq9{position: absolute;
+width: 97px;
+height: 32px;
+left: 29px;
+top: 390px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+lq10{position: absolute;
+width: 10px;
+height: 0px;
+left: 134px;
+top: 394px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq11{position: absolute;
+width: 10px;
+height: 0px;
+left: 140px;
+top: 394px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq12{position: absolute;
+width: 10px;
+height: 0px;
+left: 146px;
+top: 394px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq13{position: absolute;
+width: 10px;
+height: 0px;
+left: 152px;
+top: 394px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq14{position: absolute;
+width: 10px;
+height: 0px;
+left: 158px;
+top: 394px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq15{position: absolute;
+width: 10px;
+height: 0px;
+left: 164px;
+top: 394px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq16{position: absolute;
+width: 10px;
+height: 0px;
+left: 170px;
+top: 394px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq17{position: absolute;
+width: 10px;
+height: 0px;
+left: 176px;
+top: 394px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq18{position: absolute;
+width: 10px;
+height: 0px;
+left: 181px;
+top: 394px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq19{position: absolute;
+width: 10px;
+height: 0px;
+left: 186px;
+top: 394px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+eq10{position: absolute;
+width: 191px;
+height: 29px;
+left: 41px;
+top: 502px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq11{position: absolute;
+width: 196px;
+height: 16px;
+left: 42px;
+top: 609px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+rq3{position: absolute;
+width: 53px;
+height: 53px;
+left: 39px;
+top: 667px;
+background: url(https://cdn-icons-png.flaticon.com/512/6341/6341094.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 16px;}
+
+
+eq12{position: absolute;
+width: 59px;
+height: 25px;
+left: 115px;
+top: 681px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+eq13{position: absolute;
+width: 239px;
+height: 60px;
+left: 39px;
+top: 728px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+wq5{position: absolute;
+width: 297px;
+height: 842px;
+left: 298px;
+top: 0px;
+background: #BFFFB5;}
+
+wq6{position: absolute;
+width: 256px;
+height: 205px;
+left: 319px;
+top: 56px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq7{position: absolute;
+width: 256px;
+height: 121px;
+left: 322px;
+top: 281px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq8{position: absolute;
+width: 256px;
+height: 219px;
+left: 319px;
+top: 420px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+wq9{position: absolute;
+width: 256px;
+height: 140px;
+left: 322px;
+top: 659px;
+background: #8BDF7E;
+border-radius: 20px;}
+
+rq4{position: absolute;
+width: 55px;
+height: 55px;
+left: 331px;
+top: 663.01px;
+background: url(https://cdn-icons-png.flaticon.com/512/2420/2420249.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 20px;}
+
+eq14{position: absolute;
+width: 229px;
+height: 32px;
+left: 339px;
+top: 351px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq15{position: absolute;
+width: 123px;
+height: 25px;
+left: 413px;
+top: 304px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+rq5{position: absolute;
+width: 55px;
+height: 55px;
+left: 341px;
+top: 289px;
+background: url(https://cdn-icons-png.flaticon.com/512/2790/2790260.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;}
+
+eq16{position: absolute;
+width: 235px;
+height: 108px;
+left: 333px;
+top: 130px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq17{position: absolute;
+width: 60px;
+height: 25px;
+left: 421px;
+top: 90px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+rq6{position: absolute;
+width: 59px;
+height: 59px;
+left: 339px;
+top: 73px;
+background: url(https://cdn-icons-png.flaticon.com/512/56/56745.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 20px;}
+
+rq7{position: absolute;
+width: 54px;
+height: 54px;
+left: 332px;
+top: 431px;
+background: url(https://cdn-icons-png.flaticon.com/512/1736/1736435.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 5px;}
+
+eq18{position: absolute;
+width: 75px;
+height: 25px;
+left: 413px;
+top: 447px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+color: #000000;}
+
+eq19{position: absolute;
+width: 198px;
+height: 128px;
+left: 341px;
+top: 490px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+eq20{position: absolute;
+width: 207px;
+height: 40px;
+left: 400px;
+top: 671px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #000000;}
+
+eq21{position: absolute;
+width: 62px;
+height: 64px;
+left: 341px;
+top: 724px;
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+color: #000000;}
+
+lq20{position: absolute;
+width: 10px;
+height: 0px;
+left: 414px;
+top: 760px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq21{position: absolute;
+width: 10px;
+height: 0px;
+left: 420px;
+top: 760px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq22{position: absolute;
+width: 10px;
+height: 0px;
+left: 426px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq23{position: absolute;
+width: 10px;
+height: 0px;
+left: 432px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq24{position: absolute;
+width: 10px;
+height: 0px;
+left: 438px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq25{position: absolute;
+width: 10px;
+height: 0px;
+left: 444px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq26{position: absolute;
+width: 10px;
+height: 0px;
+left: 450px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq27{position: absolute;
+width: 10px;
+height: 0px;
+left: 456px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq28{position: absolute;
+width: 10px;
+height: 0px;
+left: 461px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq29{position: absolute;
+width: 10px;
+height: 0px;
+left: 466px;
+top: 760px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq30{position: absolute;
+width: 10px;
+height: 0px;
+left: 414px;
+top: 743px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq31{position: absolute;
+width: 10px;
+height: 0px;
+left: 420px;
+top: 743px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq32{position: absolute;
+width: 10px;
+height: 0px;
+left: 426px;
+top: 743px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq33{position: absolute;
+width: 10px;
+height: 0px;
+left: 432px;
+top: 743px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq34{position: absolute;
+width: 10px;
+height: 0px;
+left: 438px;
+top: 743px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq35{position: absolute;
+width: 10px;
+height: 0px;
+left: 444px;
+top: 743px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq36{position: absolute;
+width: 10px;
+height: 0px;
+left: 450px;
+top: 743px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq37{position: absolute;
+width: 10px;
+height: 0px;
+left: 456px;
+top: 743px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq38{position: absolute;
+width: 10px;
+height: 0px;
+left: 461px;
+top: 743px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq39{position: absolute;
+width: 10px;
+height: 0px;
+left: 466px;
+top: 743px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq40{position: absolute;
+width: 10px;
+height: 0px;
+left: 414px;
+top: 726px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq41{position: absolute;
+width: 10px;
+height: 0px;
+left: 420px;
+top: 726px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq42{position: absolute;
+width: 10px;
+height: 0px;
+left: 426px;
+top: 726px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq43{position: absolute;
+width: 10px;
+height: 0px;
+left: 432px;
+top: 726px;
+border: 2px solid #BFFFB5;
+transform: rotate(90deg);}
+
+lq44{position: absolute;
+width: 10px;
+height: 0px;
+left: 438px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq45{position: absolute;
+width: 10px;
+height: 0px;
+left: 444px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq46{position: absolute;
+width: 10px;
+height: 0px;
+left: 450px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq47{position: absolute;
+width: 10px;
+height: 0px;
+left: 456px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq48{position: absolute;
+width: 10px;
+height: 0px;
+left: 461px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+lq49{position: absolute;
+width: 10px;
+height: 0px;
+left: 466px;
+top: 726px;
+border: 2px solid #ADADAD;
+transform: rotate(90deg);}
+
+rq8{position: absolute;
+width: 51px;
+height: 51px;
+left: 42px;
+top: 554px;
+background: url(https://cdn-icons-png.flaticon.com/512/656/656302.png), #BFFFB5;
+background-size: 100%;
+background-repeat: no-repeat;
+border-radius: 1px;}
